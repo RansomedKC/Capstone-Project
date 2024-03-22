@@ -15,9 +15,9 @@ The main goal of this project is to deploy the Socks Shop application, a demonst
 
 ## Setup Details
 
-### What You'll Do
+### What I did
 
-Your main task is to set up the Socks Shop application using Terraform configurations, automating the deployment process on Amazon EKS.
+I set up the Socks Shop application using Terraform configurations, automating the deployment process on Amazon EKS.
 
 ### Resources
 
@@ -28,7 +28,7 @@ Your main task is to set up the Socks Shop application using Terraform configura
 
 ### Terraform Configuration
 
-The Terraform configurations in this repository automate the setup of the following components:
+The Terraform configurations in this repository automated the setup of the following components:
 
 - Amazon EKS Cluster
 - Virtual Private Cloud (VPC)
@@ -49,28 +49,28 @@ The repository follows the following file structure:
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. I Cloned this repository to my local machine:
 
    ```bash
    git clone https://github.com/RansomedKC/socks-shop-deployment.git
    ```
 
-2. Navigate to the cloned repository directory:
+2. I Navigated to the cloned repository directory:
 
    ```bash
    cd socks-shop-deployment
    ```
 
-3. Update the `variables.tf` file with your AWS credentials and desired configurations.
+3. I Updated the `variables.tf` file with my AWS credentials and desired configurations.
 
-4. Initialize Terraform and apply the configurations:
+4. I then Initialized Terraform and applied the configurations:
 
    ```bash
    terraform init
    terraform apply
    ```
 
-5. Follow the prompts to confirm the changes and deploy the infrastructure.
+5. I Followed the prompts to confirm the changes and deploy the infrastructure.
 
 ## Additional Considerations
 
